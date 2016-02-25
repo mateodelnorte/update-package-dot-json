@@ -1,0 +1,12 @@
+{
+  "bin": "./index.js",
+  "name": "update-package-json",
+  "version": "0.0.0",
+  "description": "simple cli tool to update the cwd's package.json to set the provided package at a specified version. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mattwalters5@gmail.com",
+  "license": "ISC"
+}
