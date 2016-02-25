@@ -1,6 +1,6 @@
 {
   "bin": "./index.js",
-  "name": "update-package-json",
+  "name": "update-package-dot-json",
   "version": "0.0.0",
   "description": "simple cli tool to update the cwd's package.json to set the provided package at a specified version. ",
   "main": "index.js",
